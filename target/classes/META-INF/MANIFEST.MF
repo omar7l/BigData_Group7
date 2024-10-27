@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: zassi
+Build-Jdk: 19
+Created-By: Maven Integration for Eclipse
+
